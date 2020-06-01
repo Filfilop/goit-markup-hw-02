@@ -1,0 +1,61 @@
+.body {
+  background-color: #ffffff;
+}
+/* Top Line */
+.header-style {
+}
+
+.logo-Web {
+  color: #2196f3;
+}
+.logo-Studio {
+  color: black;
+}
+
+.head-nav {
+  color: #ffffff;
+}
+.head-nav-stydu {
+  color: #212121;
+}
+.head-nav-portfolio {
+  color: #212121;
+}
+.head-nav-contact {
+  color: #212121;
+}
+
+.head-nav-stydu:hover {
+  color: #2196f3;
+}
+.head-nav-portfolio:hover {
+  color: #2196f3;
+}
+.head-nav-contact:hover {
+  color: #2196f3;
+}
+
+.telephone {
+  color: #757575;
+}
+.mail {
+  color: #757575;
+}
+.telephone:hover {
+  color: #2196f3;
+}
+.mail:hover {
+  color: #2196f3;
+}
+/* Header */
+.section-one {
+}
+.section-one-img {
+}
+.section-one-text {
+  color: #ffffff;
+}
+.section-one-zakaz {
+  color: #ffffff;
+}
+/* Преимущества */

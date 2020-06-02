@@ -2,44 +2,67 @@
   background-color: #ffffff;
   color: #757575;
 }
+
 /* Top Line */
 .header-style {
 }
-
+/* Логотип верхний */
+.logo-web-studio-header {
+}
+/* Логотип нижний */
+.logo-web-studio-footer {
+}
 .logo-Web {
   color: #2196f3;
 }
 .logo-Studio {
   color: black;
 }
-
+.logo-Studio-white {
+  color: #ffffff;
+}
+.logo-Studio-black {
+  color: #000000;
+}
+/* верхняя навигация */
 .head-nav {
   list-style: none;
 }
+/* студия */
 .head-nav-stydu {
   color: #212121;
+  text-decoration: none;
 }
+/* потрфолио */
 .head-nav-portfolio {
   color: #212121;
+  text-decoration: none;
 }
+/* контакты */
 .head-nav-contact {
   color: #212121;
+  text-decoration: none;
 }
-
+.head-nav-stydu:focus,
 .head-nav-stydu:hover {
   color: #2196f3;
 }
+.head-nav-portfolio:focus,
 .head-nav-portfolio:hover {
   color: #2196f3;
 }
-.head-nav-contact:hover {
+.head-nav-contact:hover,
+.head-nav-contact:focus {
   color: #2196f3;
 }
-
+/* телефон */
 .telephone {
+  text-decoration: none;
   color: #757575;
 }
+/* почта */
 .mail {
+  text-decoration: none;
   color: #757575;
 }
 .telephone:hover {
@@ -48,20 +71,23 @@
 .mail:hover {
   color: #2196f3;
 }
+/* линия */
 .line {
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-/* Header */
+/* Первая секция */
 .section-one {
 }
+/* основная картинка*/
 .section-one-img {
 }
+/* картинка тень */
 .section-one-img-ten {
-  background: rgba(47, 48, 58, 0.8);
 }
+/* Основной текст */
 .section-one-text {
   color: #ffffff;
 }
+/* ссылка заказ */
 .section-one-zakaz {
   color: #ffffff;
 }

@@ -1,5 +1,6 @@
 .body {
   background-color: #ffffff;
+  color: #757575;
 }
 /* Top Line */
 .header-style {
@@ -13,7 +14,7 @@
 }
 
 .head-nav {
-  color: #ffffff;
+  list-style: none;
 }
 .head-nav-stydu {
   color: #212121;
@@ -52,6 +53,9 @@
 }
 .section-one-img {
 }
+.section-one-img-ten {
+  background: rgba(47, 48, 58, 0.8);
+}
 .section-one-text {
   color: #ffffff;
 }
@@ -59,3 +63,115 @@
   color: #ffffff;
 }
 /* Преимущества */
+.section-two {
+}
+/* внимание */
+.section-two-detal {
+  list-style: none;
+}
+.section-two-detal-img {
+}
+.section-two-zag {
+  color: #212121;
+}
+.section-two-text {
+  color: #757575;
+}
+/* Пунктуальность */
+.section-two-puntual {
+  list-style: none;
+}
+.section-two-puntual-img {
+}
+/*  Планирование */
+.section-two-plan {
+  list-style: none;
+}
+.section-two-plan-img {
+}
+/* Технологии */
+.section-two-tehno {
+  list-style: none;
+}
+.section-two-tehno-img {
+}
+/* Чем мы занимаемся */
+.sectione-title {
+  color: #212121;
+}
+/* Десктопные приложения */
+.section-three-desctop {
+  list-style: none;
+}
+.section-three-desctop-img {
+}
+.section-three-text {
+  color: #ffffff;
+}
+/* Мобильные приложения */
+.section-three-mobolapp {
+  list-style: none;
+}
+.section-three-mobolapp-img {
+}
+/* Дизайнерские решения */
+.section-three-dizain {
+  list-style: none;
+}
+.section-three-dizain-img {
+}
+/* Наша команда */
+.section-four {
+  background: #f5f4fa;
+}
+.section-four-name {
+  color: #212121;
+}
+.section-four-work {
+  color: #757575;
+}
+/* John Smith */
+.section-four-john-smith {
+}
+.section-four-john-smith-img {
+}
+/* Marta Stewart */
+.section-four-marta-stewart {
+}
+.section-four-marta-stewart-img {
+}
+/* Robert Jakis */
+.section-four-robert-jakis {
+}
+.section-four-robert-jakis-img {
+}
+/* Martin Doe */
+.section-four-martin-doe {
+}
+.section-four-martin-doe-img {
+}
+/* ПОДВАЛ */
+.footer {
+  background: #2f303a;
+}
+.address {
+}
+.address-text {
+  color: #ffffff;
+}
+.address-mail {
+  color: rgba(255, 255, 255, 0.6);
+}
+.address-telephone {
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-social {
+}
+.footer-social-name {
+  color: #ffffff;
+}
+.footer-e-mail-nput {
+}
+.footer-e-mail-nput-name {
+  color: #ffffff;
+}

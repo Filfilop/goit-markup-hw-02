@@ -48,6 +48,9 @@
 .mail:hover {
   color: #2196f3;
 }
+.line {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 /* Header */
 .section-one {
 }
@@ -124,6 +127,9 @@
 .section-four {
   background: #f5f4fa;
 }
+.section-four-oll {
+  list-style: none;
+}
 .section-four-name {
   color: #212121;
 }
@@ -170,8 +176,100 @@
 .footer-social-name {
   color: #ffffff;
 }
+.footer-social-contact {
+  list-style: none;
+}
+
 .footer-e-mail-nput {
 }
 .footer-e-mail-nput-name {
   color: #ffffff;
+}
+.footer-ckick {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.footer-input {
+  background-color: #2f303a;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.fa-paper-plane {
+  color: #ffffff;
+}
+.line-footer {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+/* ПоРТФОЛИО */
+/* меню */
+.button {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+.button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.porfolio-section {
+}
+.porfolio-section-meny {
+  list-style: none;
+}
+/* основные картинки */
+.porfolio-section-two {
+}
+.porfolio-section-two-oll {
+  list-style: none;
+}
+.porfolio-section-two-title {
+  color: #212121;
+}
+.porfolio-section-two-text {
+  color: #757575;
+}
+
+/* технокряк */
+.porfolio-section-two-ollblock-tehno {
+}
+.porfolio-section-two-tehno-img {
+}
+
+/* Постер */
+.porfolio-section-two-ollblock-poster {
+}
+.porfolio-section-two-poster-img {
+}
+/* ресторан */
+.porfolio-section-two-ollblock-restoran {
+}
+.porfolio-section-two-restoran-img {
+}
+/* проект прайм */
+.porfolio-section-two-ollblock-prime {
+}
+.porfolio-section-two-prime-img {
+}
+/* проект вокс */
+.porfolio-section-two-ollblock-box {
+}
+.porfolio-section-two-box-img {
+}
+/* inspiration */
+.porfolio-section-two-ollblock-inspiration {
+}
+.porfolio-section-two-inspiration-img {
+}
+/* издание */
+.porfolio-section-two-ollblock-izdanie {
+}
+.porfolio-section-two-izdanie-img {
+}
+/* проект лаб */
+.porfolio-section-two-ollblock-lab {
+}
+.porfolio-section-two-lab-img {
+}
+/*  growing */
+.porfolio-section-two-ollblock-growing {
+}
+.porfolio-section-two-growing-img {
 }

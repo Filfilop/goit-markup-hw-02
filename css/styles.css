@@ -240,6 +240,10 @@
 .porfolio-section-meny {
   list-style: none;
 }
+/* скрытый заголовок  */
+.visibility-hidden {
+  visibility: hidden;
+}
 /* основные картинки */
 .porfolio-section-two {
 }
